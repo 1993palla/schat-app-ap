@@ -1,1 +1,1 @@
-# schat-app-ap
+# schat-app-ap (Chat with Friends)
